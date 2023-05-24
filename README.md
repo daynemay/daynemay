@@ -1,4 +1,8 @@
-### TODO: something
+### Convenience links for work:
+- [pbsmc](https://github.com/BeyondTrust/pbsmc/pulls)
+- [pbsmc-frontend](https://github.com/BeyondTrust/pbsmc-frontend/pulls)
+- [pbsmc-profile](https://github.com/BeyondTrust/pbsmc-profile/pulls)
+- [pbsmc-packaging](https://github.com/BeyondTrust/pbsmc-packaging/pulls)
 
 <!--
 **daynemay/daynemay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
